@@ -1,3 +1,4 @@
+<img src="https://media.licdn.com/dms/image/v2/D5616AQFlaql0eCXEFA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728894086460?e=1755734400&v=beta&t=fjpo5h4SDDxwmTwXJ09E3GvMtc03YhUUxnvOlhsneLw">
 <h1 align="center">Hi 👋, I'm Akshay Patil</h1>
 <h3 align="center">
   Front-End Developer | Java Full Stack Enthusiast | Passionate about UI/UX & Web Technologies
