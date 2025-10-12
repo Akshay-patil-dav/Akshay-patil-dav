@@ -53,6 +53,21 @@ Java Full Stack Development with AI/ML from SEED Infotech, Pune. Gained exposure
 
 ---
 
+
+🧑‍💻 Full-Stack Developer Tech Stack
+🌐 Frontend
+🖌️ HTML5 | 🎨 CSS3 | ⚡ JavaScript | ⚛️ React.js | 🎯 Bootstrap | 💠 Tailwind CSS
+⚙️ Backend
+☕ Java (Spring Boot) | 💻 C# (ASP.NET Core) | 🐍 Python (Django/Flask)
+🗄️ Database
+🐬 MySQL | 🍃 MongoDB | 🧩 PostgreSQL | 🧱 SQL Server
+☁️ Cloud / DevOps
+☁️ AWS | 🐳 Docker | ⚙️ GitHub Actions | 🧭 Kubernetes
+🔐 Security
+🔑 JWT | 🧱 OAuth2.0 | 🔒 HTTPS
+🧠 AI / ML (Optional)
+🧬 TensorFlow | 🤖 OpenAI API
+
 ### 📈 GitHub Stats:
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshay-patil-dav&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
