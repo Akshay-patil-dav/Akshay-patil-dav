@@ -54,19 +54,26 @@ Java Full Stack Development with AI/ML from SEED Infotech, Pune. Gained exposure
 ---
 
 
-🧑‍💻 Full-Stack Developer Tech Stack
-🌐 Frontend
-🖌️ HTML5 | 🎨 CSS3 | ⚡ JavaScript | ⚛️ React.js | 🎯 Bootstrap | 💠 Tailwind CSS
-⚙️ Backend
-☕ Java (Spring Boot) | 💻 C# (ASP.NET Core) | 🐍 Python (Django/Flask)
-🗄️ Database
-🐬 MySQL | 🍃 MongoDB | 🧩 PostgreSQL | 🧱 SQL Server
-☁️ Cloud / DevOps
-☁️ AWS | 🐳 Docker | ⚙️ GitHub Actions | 🧭 Kubernetes
-🔐 Security
-🔑 JWT | 🧱 OAuth2.0 | 🔒 HTTPS
-🧠 AI / ML (Optional)
-🧬 TensorFlow | 🤖 OpenAI API
+### 🧑‍💻 Full-Stack Developer Tech Stack
+
+#### 🌐 Frontend  
+🖌️ **HTML5** &nbsp;|&nbsp; 🎨 **CSS3** &nbsp;|&nbsp; ⚡ **JavaScript** &nbsp;|&nbsp; ⚛️ **React.js** &nbsp;|&nbsp; 🎯 **Bootstrap** &nbsp;|&nbsp; 💠 **Tailwind CSS**
+
+#### ⚙️ Backend  
+☕ **Java (Spring Boot)** &nbsp;|&nbsp; 💻 **C# (ASP.NET Core)** &nbsp;|&nbsp; 🐍 **Python (Django / Flask)**
+
+#### 🗄️ Database  
+🐬 **MySQL** &nbsp;|&nbsp; 🍃 **MongoDB** &nbsp;|&nbsp; 🧩 **PostgreSQL** &nbsp;|&nbsp; 🧱 **SQL Server**
+
+#### ☁️ Cloud / DevOps  
+☁️ **AWS** &nbsp;|&nbsp; 🐳 **Docker** &nbsp;|&nbsp; ⚙️ **GitHub Actions** &nbsp;|&nbsp; 🧭 **Kubernetes**
+
+#### 🔐 Security  
+🔑 **JWT** &nbsp;|&nbsp; 🧱 **OAuth 2.0** &nbsp;|&nbsp; 🔒 **HTTPS**
+
+#### 🧠 AI / ML (Optional)  
+🧬 **TensorFlow** &nbsp;|&nbsp; 🤖 **OpenAI API**
+
 
 ### 📈 GitHub Stats:
 <p>
