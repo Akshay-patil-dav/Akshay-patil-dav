@@ -17,7 +17,7 @@ Java Full Stack Development with AI/ML from SEED Infotech, Pune. Gained exposure
 
 🧑‍💻 **Internship Experience**  
 - 💼 2-month internship at **Quadiro Technologies LLP** — contributed to web-based project design and UI updates.  
-- 💼 1-Year ongoing internship at **MNJ Software** as **Front-End & UI Developer** —  
+- 💼 1.3-Year ongoing internship at **MNJ Software** as **Front-End & UI Developer** —  
   - Developed responsive, visually engaging user interfaces  
   - Built reusable JavaScript components (20% efficiency improvement)  
   - Applied advanced CSS techniques for cross-device consistency
