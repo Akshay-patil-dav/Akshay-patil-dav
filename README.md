@@ -16,15 +16,15 @@ Completed Bachelor of Computer Applications (B.C.A.) from Shivaji University, Ko
 Java Full Stack Development with AI/ML from SEED Infotech, Pune. Gained exposure to modern development tools and frameworks.
 
 🧑‍💻 **Internship Experience**  
-💼 3-Month Internship at LogicoWise Systems  — Contributed to web-based project design, front-end development, and UI enhancement activities.
-💼 1-Month Internship at Quadiro Technologies LLP — Contributed to web-based project design, front-end development, and UI enhancement activities.
-💼 1 Year 4 Months of Ongoing Experience at MNJ Software as a Front-End & UI Developer —
+- 💼 3-Month Internship at LogicoWise Systems  — Contributed to web-based project design, front-end development, and UI enhancement activities.
+- 💼 1-Month Internship at Quadiro Technologies LLP — Contributed to web-based project design, front-end development, and UI enhancement activities.
+- 💼 1 Year 4 Months of Ongoing Experience at MNJ Software as a Front-End & UI Developer —
 Developed responsive and visually engaging user interfaces
 Built reusable JavaScript components, improving development efficiency by 20%
 Applied advanced CSS and responsive design techniques for cross-device compatibility
 Worked with HTML, CSS, Bootstrap, JavaScript, jQuery, and .NET Core MVC-based projects
 
-~2 Years of Experience in Front-End Development & UI Development
+- ~2 Years of Experience in Front-End Development & UI Development
 
 ---
 
