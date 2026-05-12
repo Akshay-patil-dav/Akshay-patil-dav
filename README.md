@@ -92,11 +92,3 @@ Worked with HTML, CSS, Bootstrap, JavaScript, jQuery, and .NET Core MVC-based pr
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshay-patil-dav" alt="GitHub Streak" />
 </p>
 
----
-
-### 🔗 Quick Links:
-- 🔭 Currently working at [MNJ Software](https://www.mnjsoftware.com/)
-- 💼 Portfolio: [About Me Page](https://akshay-patil-dav.github.io/About_page/)
-- 👨‍💻 Projects: [GitHub Profile](https://github.com/Akshay-patil-dav)
-- 💬 Ask me about: **React, Vite, Next.js, Java, JavaScript, Front-End Development**
-- 📫 Email me: **akshaypatil22082002@gmail.com**
